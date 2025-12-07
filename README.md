@@ -1,2 +1,31 @@
-# Soulpage-genai-assignment-Lekhan
-Assignment 
+## Objective:
+A simple agentic agent built using Langchain and Streamlit.
+
+## 🚀 Features
+
+- 🔹 **Chat** – Ask anything about the document
+- 🖼️ **Tools** – Equipped with tools like Weather API
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Python** | Core programming language |
+| **Streamlit** | Frontend Web App framework |
+| **Langgraph, Langchain** | Frameworks in the AI/LLM ecosystem |
+| **dotenv** | Securely manage API keys |
+
+## 📂 Project Structure
+
+```
+chatbot/
+│
+├── main.py                # main code
+├── requirements.txt       # Python dependencies
+└── README.md              # This file
+```
+
+
+
+## Thank you
+
