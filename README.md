@@ -4,7 +4,7 @@ A simple agent built using Langchain and Streamlit.
 ## 🚀 Features
 
 - 🔹 **Coversational Chat** – Engages in natural, contextual conversations and remembers previous interactions.
-- 🖼️ **Tools** – Equipped with tools like Weather API
+- 🖼️ **Tools** – Equipped with tools like web search, wikipedia and arxiv
 
 ## 🛠️ Tech Stack
 
