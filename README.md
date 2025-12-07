@@ -1,9 +1,9 @@
 ## Objective:
-A simple agentic agent built using Langchain and Streamlit.
+A simple agent built using Langchain and Streamlit.
 
 ## 🚀 Features
 
-- 🔹 **Chat** – Ask anything about the document
+- 🔹 **Coversational Chat** – Engages in natural, contextual conversations and remembers previous interactions.
 - 🖼️ **Tools** – Equipped with tools like Weather API
 
 ## 🛠️ Tech Stack
